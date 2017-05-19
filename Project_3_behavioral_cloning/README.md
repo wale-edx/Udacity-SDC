@@ -138,7 +138,7 @@ not tested yet
 
 The model can drive the course without bumping into the side ways.
 
-- [The Lake Track - YouTube Link](soon)
+- [The Lake Track - YouTube Link](https://youtu.be/xhlRtiixhiU)
 
 ## References
 - NVIDIA model: https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/
